@@ -17,7 +17,7 @@ console.log(colore);
 
 //mostrare risultato
 
-document.getElementById(`dati`).innerHTML = `${nome} ${cognome} ${colore} 21 `;
+document.getElementById(`dati`).innerHTML = `${nome}${cognome}${colore}21`;
 
 
 
